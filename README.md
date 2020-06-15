@@ -1,2 +1,2 @@
 # Git-Github
-Cheet sheet for commands.
+Cheet sheet for git-github commands.
